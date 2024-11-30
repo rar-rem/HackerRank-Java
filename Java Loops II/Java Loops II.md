@@ -12,7 +12,7 @@ space-separated integers.
 ### Input Format
 
 The first line contains an integer, q, denoting the number of queries.
-Each line i of the q subsequent lines contains three space-separated integers describing the respective a_i, b_i, and n_i
+Each line i of the q subsequent lines contains three space-separated integers describing the respective ```math a_i, b_i, and n_i ```
 values for that query.
 
 ### Constraints
@@ -41,9 +41,7 @@ n space-separated integers.
 
 We have two queries:
 
-1. We use a = 0, b = 0, and n = 10 to produce some series 
-
-:
+1. We use a = 0, b = 0, and n = 10 to produce some series ```math s_0, s_1, ..., s_n-1 ```:
 
 ... and so on.
 
