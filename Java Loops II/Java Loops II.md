@@ -2,6 +2,6 @@
 
 We use the integers a, b, and n to create the following series:
 
-'''math
-(a + 2^0.b),(a + 2^0.b + 2^1.b),...,(a + 2^0.b + 2^1.b + ... + 2^n-1.b )
-'''
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
