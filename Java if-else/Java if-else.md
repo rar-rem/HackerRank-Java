@@ -25,17 +25,24 @@ A single line containing a positive integer, n.
 Print Weird if the number is weird; otherwise, print Not Weird.
 
 ### Sample Input 0
-
-> 3
+ 
+    3
 
 ### Sample Output 0
-
-> Weird
+ 
+    Weird
 
 ### Sample Input 1
-
-> 24
+ 
+    24
 
 ### Sample Output 1
+ 
+    Not Weird
 
-> Not Weird
+### Explanation
+Sample Case 0: n = 3
+n is odd and odd numbers are weird, so we print Weird.
+
+Sample Case 1: n = 24
+n >  20 and n is even, so it isn't weird. Thus, we print Not Weird.
