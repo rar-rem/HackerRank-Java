@@ -17,7 +17,8 @@ A single integer, N.
 ### Output Format
 
 Print 10 lines of output; each line i (where 1 <= i <= 10) contains the of N x i in the form:
-N x i = result.
+
+> N x i = result.
 
 ### Sample Input
 
