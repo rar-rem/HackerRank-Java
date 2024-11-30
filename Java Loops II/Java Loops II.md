@@ -14,7 +14,7 @@ space-separated integers.
 The first line contains an integer, q, denoting the number of queries.
 Each line i of the q subsequent lines contains three space-separated integers describing the respective 
 ```math 
-a_i, b_i, and n_i 
+a_i, b_i, and  n_i 
 ```
 values for that query.
 
